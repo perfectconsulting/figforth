@@ -1,5 +1,5 @@
 	PAGE	66,106
-TITLE	FIG-FORTH FOR IBM-PC   1.0
+TITLE	FIG-FORTH FOR IBM-PC   1.1
 comment ~
               FIG-FORTH
    implemented by:  Charlie Krajewski
