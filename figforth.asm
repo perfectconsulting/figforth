@@ -5,7 +5,7 @@ comment ~
    implemented by:  Charlie Krajewski
                     205 ( BIG ) Blue Rd.
                     Middletown, CT  06457
-   modifed by: Steve James
+   modifed by: Steven James
                     Goerge Hill,
                     High Wycombe. HP15 6BH                 
 ;
